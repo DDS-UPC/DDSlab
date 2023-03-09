@@ -7,7 +7,7 @@ output: html_document
 
 Configura el `working directory` con el path donde tienes guardado este archivo. Puedes hacerlo desde el menu "Session" -> "Set working directory" -> "To files pane location" o ejecutando el siguiente código en el terminal cambiando `<LOCAL_PATH>` por el tuyo:
 
-`setwd("<LOCAL_PATH>/code/examples/zeroAccess")`
+`setwd("C:\DEVEL\DDS\DDSlab/code/examples/zeroAccess")`
 
 ## Resumen
 Este informe realiza un analisis centrado en el estudio de las conexiones del malware ZeroAccess rootkit.  
